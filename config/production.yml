@@ -1,5 +1,5 @@
 DATABASE:
-  URL: postgres://papebeeppazche:f7949cdbc6af384f25fe36f185d6e1a61751a079fb9de6aaf163129b998f4a3d@ec2-54-216-185-51.eu-west-1.compute.amazonaws.com:5432/d3i18v64c1g2ip
+  URL: postgres://giopfeslanchdz:9041858102cbaffb66f3f1d9f3621b49016d0db6e6ccca8acf02660d3c0843f5@ec2-52-18-116-67.eu-west-1.compute.amazonaws.com:5432/d2chg53f3h85h3
   SYNCHRONIZE: true
   TYPE: 'postgres'
 
