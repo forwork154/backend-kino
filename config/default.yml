@@ -1,0 +1,5 @@
+API:
+  PORT: 4000
+
+DATABASE:
+  TYPE: 'postgres'

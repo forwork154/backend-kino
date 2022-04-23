@@ -1,0 +1,7 @@
+DATABASE:
+  URL: postgres://papebeeppazche:f7949cdbc6af384f25fe36f185d6e1a61751a079fb9de6aaf163129b998f4a3d@ec2-54-216-185-51.eu-west-1.compute.amazonaws.com:5432/d3i18v64c1g2ip
+  SYNCHRONIZE: true
+  TYPE: 'postgres'
+
+TELEGRAF:
+  BOT_TOKEN: '1940811740:AAGaDxyzv3SL7Hk1uW3ZNn-vu-VDRQ3C350'
