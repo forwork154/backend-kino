@@ -1,7 +1,7 @@
 DATABASE:
-  URL: postgres://giopfeslanchdz:9041858102cbaffb66f3f1d9f3621b49016d0db6e6ccca8acf02660d3c0843f5@ec2-52-18-116-67.eu-west-1.compute.amazonaws.com:5432/d2chg53f3h85h3
+  URL: postgres://vjnkuqoaneeraa:9cada12771ceb7c0e67faec3158231ced3ddc1f7cbc67bebbffcc53b0f36ddbd@ec2-99-80-170-190.eu-west-1.compute.amazonaws.com:5432/d56v0oj3iaok4u
   SYNCHRONIZE: true
   TYPE: 'postgres'
 
 TELEGRAF:
-  BOT_TOKEN: '1940811740:AAGaDxyzv3SL7Hk1uW3ZNn-vu-VDRQ3C350'
+  BOT_TOKEN: '5399446078:AAGsFt2JyCSUakqxAcXq7sWk9C0Yqn0WPKw'
